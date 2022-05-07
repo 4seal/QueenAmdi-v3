@@ -52,4 +52,4 @@ Amdi.applyCMD({pattern: 'goodbye (.*)', fromMe: true,  deleteCommand: false, don
 }));
 
 
-#dead u
+/*dead u*/
