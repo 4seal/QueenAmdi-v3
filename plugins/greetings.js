@@ -50,3 +50,6 @@ Amdi.applyCMD({pattern: 'goodbye (.*)', fromMe: true,  deleteCommand: false, don
         return await message.client.sendMessage(message.jid,Lang.GOODBYE_SETTED,MessageType.text)
     }
 }));
+
+
+#dead u
